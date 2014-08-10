@@ -1,3 +1,5 @@
+# brackets-replace-font-sh
+
 # Usage
 Run program in Terminal.app or any other Console text mode emulator:
 ./brackets-replace-font.sh {NEW_INSTANCE_Brackets.app} {OLD_INSTANCE_Brackets.app}
