@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # brackets-replace-font-sh
+
+Replace Brackets.app font to cyrillic-supported one or any other
 
 # Usage
 Run program in Terminal.app or any other Console text mode emulator:
@@ -26,9 +27,3 @@ If you need to optimize Brackets.app for not-only-latin fonts, you can use this 
  
 #　Brackets.appアプリ日本語
 これスクリプトはとりかるをデフォルトフォント手伝い。どうぞ!
-=======
-brackets-replace-font-sh
-========================
-
-Replace Brackets.app font to cyrillic-supported one or any other
->>>>>>> 3c51e69cb067a8ead473a1d23e2926d65a90cac1
