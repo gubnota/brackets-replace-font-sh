@@ -41,12 +41,12 @@ else
 tput bold; tput setaf 7;
 echo "Need new Brackets.app instance dir path as first parameter "
 echo "and old instance Brackets.app contained "
-echo "\"Content/www/styles/fonts/Roboto/\" "
+echo "\"Contents/www/styles/fonts/Roboto/\" "
 echo "fonts dir path as the second:";
 echo "$0 NEW_INSTANCE_Brackets.app OLD_INSTANCE_Brackets.app";
 echo "If haven't made change defaults fonts yet, please download from:";
 echo "\"http://www.dafont.com/roboto.font\" and put \"Roboto\" "
-echo "folder in \"Brackets.app/Content/www/styles/fonts/\" created subfolder "
+echo "folder in \"Brackets.app/Contents/www/styles/fonts/\" created subfolder "
 echo "to point as an OLD_INSTANCE_Brackets.app folder"
 fi
 # sed -i.backup "s%src:url('fonts/SourceSansPro/SourceSansPro-Regular.ttf');%src:url('fonts/Roboto/Roboto-Regular.ttf');%g" 1.md
